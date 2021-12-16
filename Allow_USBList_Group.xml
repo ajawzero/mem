@@ -2,5 +2,6 @@
     <MatchType>MatchAny</MatchType>
     <DescriptorIdList>
         <InstancePathId>USBSTOR\DISK&amp;VEN_&amp;PROD_USB_FLASH_MEMORY&amp;REV_1.00\E46F13A4D420C1405002EC7F&amp;0</InstancePathId>
+        <InstancePathId>USBSTOR\DISK&amp;VEN_&amp;PROD_USB_DISK_3.0&amp;REV_PMAP\070D170C9BB67169&amp;0</InstancePathId>
     </DescriptorIdList>
 </Group>
